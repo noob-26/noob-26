@@ -20,3 +20,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Souraprabha-ganguly/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/ganguly_26)`
 
+
+<a href="https://github.com/noob-26">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=noob-26&show_icons=true&theme=dracula&line_height=27" alt="Souraprabha's github stats"/>
+</a>
