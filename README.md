@@ -1,5 +1,5 @@
 ### Hello, I am Souraprabha Ganguly. Welcome to my profile.👋
-###### An undergraduate student and aspiring Software developer interested in Full-Stack Web Development and Competitive programming.
+###### An undergraduate student and aspiring Software developer interested in Android App Development and Competitive programming.
 
 
 <!--
@@ -8,7 +8,7 @@
 <!--Here are some ideas to get you started:-->
 
 <!-- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Web development and various Data Structures and Algorithms.
+- 🌱 I’m currently learning Android App development and various Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on projects involving Full-Stack Web Development.
 <!--- 🤔 I’m looking for help with ..
 - 💬 Ask me about ...
